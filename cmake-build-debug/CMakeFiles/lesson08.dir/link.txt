@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lesson08.dir/main.cpp.o CMakeFiles/lesson08.dir/Work.cpp.o CMakeFiles/lesson08.dir/PrivateWork.cpp.o CMakeFiles/lesson08.dir/CompanyWork.cpp.o CMakeFiles/lesson08.dir/Worker.cpp.o CMakeFiles/lesson08.dir/Stats.cpp.o  -o lesson08 
